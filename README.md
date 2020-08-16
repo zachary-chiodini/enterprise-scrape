@@ -1,4 +1,5 @@
-<table align="left">
+<div>
+    <table align="left">
     <tr>
         <td colspan="3">
             <img src="python.png" style="width:20%; height:20%" align="left"/>
@@ -12,4 +13,5 @@
     <tr>
         <td colspan="3"><hr></td>
     </tr>
-</table>
+    </table>
+</div>
