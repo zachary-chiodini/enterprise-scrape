@@ -1,4 +1,4 @@
-<table align="left" cellspacing="0" cellpadding="0">
+<table align="left">
     <tr>
         <td colspan="3">
             <img src="python.png" style="width:20%; height:20%" align="left"/>
