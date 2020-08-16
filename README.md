@@ -13,6 +13,7 @@
         <td colspan="3"><hr></td>
     </tr>
 </table>
+<br>
 
 ```python
 from enterprise_scrape import Scrape
