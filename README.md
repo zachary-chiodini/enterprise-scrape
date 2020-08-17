@@ -294,15 +294,15 @@ scrape.assocComp( 'ibm' )
   <tbody>
     <tr>
       <th>0</th>
-      <td>international business machines</td>
-    </tr>
-    <tr>
-      <th>1</th>
       <td>international business machines corp</td>
     </tr>
     <tr>
-      <th>2</th>
+      <th>1</th>
       <td>ibm</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>international business machines</td>
     </tr>
   </tbody>
 </table>
@@ -403,6 +403,62 @@ scrape.childComp( 'skype' )
     <tr>
       <th>3</th>
       <td>skype software sar.l.</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
+<hr>
+<i style="font-size:15.9px">Find emails:</i>
+<hr>
+
+
+```python
+scrape.getEmail( 'john hopkins university' )
+```
+
+
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Email</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>gotojh@jhu.edu</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>applyhel@jhu.edu</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>intlhel@jhu.edu</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>fin_ai@jhu.edu</td>
     </tr>
   </tbody>
 </table>
