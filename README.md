@@ -102,23 +102,6 @@ scrape.getResult()
 scrape.getBox()
 ```
 
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -157,9 +140,6 @@ scrape.getBox()
     </tr>
   </tbody>
 </table>
-</div>
-
-
 
 <hr>
 <i style="font-size:15.9px">Find alternative names for the company, if they exist:</i>
