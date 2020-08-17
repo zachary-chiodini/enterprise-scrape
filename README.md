@@ -92,9 +92,6 @@ scrape.getResult()
     </tr>
   </tbody>
 </table>
-</div>
-
-
 
 <hr>
 <i style="font-size:15.9px">Extract Information from Google's information box, if one exists:</i>
