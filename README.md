@@ -20,13 +20,6 @@ scrape.google( 'ibm company' )
 scrape.getResult()
 ```
 
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
     }
 
     .dataframe tbody tr th {
