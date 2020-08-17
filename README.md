@@ -150,23 +150,6 @@ scrape.getBox()
 scrape.assocComp( 'ibm' )
 ```
 
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -189,9 +172,6 @@ scrape.assocComp( 'ibm' )
     </tr>
   </tbody>
 </table>
-</div>
-
-
 
 <hr>
 <i style="font-size:15.9px">Find parent companies:</i>
@@ -202,23 +182,6 @@ scrape.assocComp( 'ibm' )
 scrape.parentComp( 'skype' )
 ```
 
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -233,9 +196,6 @@ scrape.parentComp( 'skype' )
     </tr>
   </tbody>
 </table>
-</div>
-
-
 
 <hr>
 <i style="font-size:15.9px">Find subsidiaries:</i>
@@ -246,23 +206,6 @@ scrape.parentComp( 'skype' )
 scrape.childComp( 'skype' )
 ```
 
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -289,35 +232,15 @@ scrape.childComp( 'skype' )
     </tr>
   </tbody>
 </table>
-</div>
-
-
 
 <hr>
 <i style="font-size:15.9px">Find emails:</i>
 <hr>
 
-
 ```python
 scrape.getEmail( 'john hopkins university' )
 ```
 
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
 </style>
 <table border="1" class="dataframe">
   <thead>
@@ -345,9 +268,6 @@ scrape.getEmail( 'john hopkins university' )
     </tr>
   </tbody>
 </table>
-</div>
-
-
 
 <hr>
 <i style="font-size:15.9px">Get reviews:</i>
@@ -358,23 +278,6 @@ scrape.getEmail( 'john hopkins university' )
 scrape.getReview( 'mcdonalds' )
 ```
 
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -447,6 +350,3 @@ scrape.getReview( 'mcdonalds' )
     </tr>
   </tbody>
 </table>
-</div>
-
-
