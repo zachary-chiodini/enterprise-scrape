@@ -1,5 +1,3 @@
-# Enterprise Scrape | Scrape Enterprise Data from Google
-
 ![image](thumbnail.PNG)
 
 <hr>
