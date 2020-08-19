@@ -1,6 +1,34 @@
 <p align="center">
     <img src="photos/sunset.png">
 </p>
+<table align="left">
+    <tr>
+        <td style="background-color:white; border-bottom:1px solid lightgrey" align="center">
+            <img src="clipboard.png" style="width:30px; height:" align="center"/>
+        </td>
+        <td style="background-color:white; border-bottom:1px solid lightgrey" 
+            align="center">
+            <span style="font-size:19px"><b><i>Dependencies</i></b></span>
+        </td>
+    </tr>
+    <tr>
+        <td style="background-color:white">
+            <img src="pythonlogo.png" style="width:23px; height:" align="center"/>
+        </td>
+        <td style="background-color:white">
+            <img src="python.png" style="width:60px; height:" align="right"/>
+        <td>
+    </tr>
+    <tr>
+        <td style="background-color:white">
+            <img src="pandaslogo.png" style="width:20px; height:" align="center"/>
+        </td>
+        <td style="background-color:white">
+            <img src="pandas.png" style="width:80px; height:" align="right"/>
+        </td>
+    </tr>
+</table>
+
 
 <hr>
 <i style="font-size:15.9px">Import Scrape from the "enterprise_scrape.py" module:</i>
