@@ -1,6 +1,9 @@
 <p align="center">
     <img src="photos/sunset.png">
 </p>
+<p align="left">
+    <img src="photos/dependencies.png">
+</p>
 
 <hr>
 <i style="font-size:15.9px">Import Scrape from the "enterprise_scrape.py" module:</i>
