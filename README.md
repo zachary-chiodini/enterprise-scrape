@@ -4,7 +4,7 @@
 <table align="left">
     <tr>
         <td style="background-color:white; border-bottom:1px solid lightgrey" align="center">
-            <img src="clipboard.png" style="width:30px; height:" align="center"/>
+            <img src="photos/clipboard.png" style="width:30px; height:" align="center"/>
         </td>
         <td style="background-color:white; border-bottom:1px solid lightgrey" 
             align="center">
@@ -13,10 +13,10 @@
     </tr>
     <tr>
         <td style="background-color:white">
-            <img src="pythonlogo.png" style="width:23px; height:" align="center"/>
+            <img src="photos/pythonlogo.png" style="width:23px; height:" align="center"/>
         </td>
         <td style="background-color:white">
-            <img src="python.png" style="width:60px; height:" align="right"/>
+            <img src="photos/python.png" style="width:60px; height:" align="right"/>
         <td>
     </tr>
     <tr>
@@ -29,6 +29,7 @@
     </tr>
 </table>
 
+<br>
 <br>
 <br>
 <br>
