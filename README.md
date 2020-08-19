@@ -2,7 +2,7 @@
     <img src="photos/sunset.png">
 </p>
 <p align="left">
-    <img src="photos/dependencies.png">
+    <img width="244px" src="photos/dependencies.png">
 </p>
 
 <hr>
