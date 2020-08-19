@@ -4,7 +4,7 @@
 <table align="left">
     <tr>
         <td style="background-color:white; border-bottom:1px solid lightgrey" align="center">
-            <img src="photos/clipboard.png" style="width:10px" align="center"/>
+            <img src="photos/clipboard.png" style="width:5px" align="center"/>
         </td>
         <td style="background-color:white; border-bottom:1px solid lightgrey" 
             align="center">
