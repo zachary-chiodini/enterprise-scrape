@@ -2,13 +2,6 @@
     <img src="photos/sunset.png">
 </p>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 <hr>
 <i style="font-size:15.9px">Import Scrape from the "enterprise_scrape.py" module:</i>
 <hr>
