@@ -1,33 +1,6 @@
 <p align="center">
     <img src="photos/sunset.png">
 </p>
-<table align="left">
-    <tr>
-        <td style="background-color:white; border-bottom:1px solid lightgrey" align="center">
-            <img src="photos/clipboard.png" style="width:5px" align="center"/>
-        </td>
-        <td style="background-color:white; border-bottom:1px solid lightgrey" 
-            align="center">
-            <span style="font-size:19px"><b><i>Dependencies</i></b></span>
-        </td>
-    </tr>
-    <tr>
-        <td style="background-color:white">
-            <img src="photos/pythonlogo.png" style="width:23px; height:" align="center"/>
-        </td>
-        <td style="background-color:white">
-            <img src="photos/python.png" style="width:60px; height:" align="right"/>
-        <td>
-    </tr>
-    <tr>
-        <td style="background-color:white">
-            <img src="pandaslogo.png" style="width:20px; height:" align="center"/>
-        </td>
-        <td style="background-color:white">
-            <img src="pandas.png" style="width:80px; height:" align="right"/>
-        </td>
-    </tr>
-</table>
 
 <br>
 <br>
